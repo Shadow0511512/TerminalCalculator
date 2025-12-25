@@ -45,10 +45,8 @@ std::cout << "************CALCULATOR************ \n";
     default:
             std::cout << "invalid response";
             break;
-
-    return 0;
     }
 
 std::cout << "************************************";
-
+return 0;
 }
